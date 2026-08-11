@@ -16,7 +16,7 @@ Curso_Python_Mosh/
 └── README.md           # Documentation
 ```
 
-🛠️ Tech Stack & Environment
+### 🛠️ Tech Stack & Environment
 Language: Python 3
 
 IDE: PyCharm
@@ -25,19 +25,19 @@ OS / Environment: Linux (WSL2) / Windows 11
 
 Version Control: Git & GitHub
 
-💡 Key Concepts Covered
-[x] Python Setup & Execution
+### 💡 Key Concepts Covered
+- [x] Python Setup & Execution
 
-[x] Code Formatting & Best Practices
+- [x] Code Formatting & Best Practices
 
-[ ] Primitive Data Types & Variables
+- [ ] Primitive Data Types & Variables
 
-[ ] Control Flow & Conditionals (if, else)
+- [ ] Control Flow & Conditionals (if, else)
 
-[ ] Loops (for, while)
+- [ ] Loops (for, while)
 
-[ ] Functions & Modular Code
+- [ ] Functions & Modular Code
 
-[ ] Data Structures (Lists, Tuples, Dictionaries)
+- [ ] Data Structures (Lists, Tuples, Dictionaries)
 
 Maintained by @TiagovskiCode
