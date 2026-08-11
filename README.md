@@ -14,3 +14,29 @@ Curso_Python_Mosh/
 ├── 02_formatingcode.py  # Code formatting & PEP 8 standards
 ├── 03_runningcode.py   # Executing Python scripts & environment setup
 └── README.md           # Documentation
+
+🛠️ Tech Stack & Environment
+Language: Python 3
+
+IDE: PyCharm
+
+OS / Environment: Linux (WSL2) / Windows 11
+
+Version Control: Git & GitHub
+
+💡 Key Concepts Covered
+[x] Python Setup & Execution
+
+[x] Code Formatting & Best Practices
+
+[ ] Primitive Data Types & Variables
+
+[ ] Control Flow & Conditionals (if, else)
+
+[ ] Loops (for, while)
+
+[ ] Functions & Modular Code
+
+[ ] Data Structures (Lists, Tuples, Dictionaries)
+
+Maintained by @TiagovskiCode
