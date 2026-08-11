@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80611442-0c78-40c1-8f4a-738078a63652" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_escapesequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_escapesequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_formattedstrings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,61 +25,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.5346223420441906E-4" />
-      <entry key="MS500" value="0.2009799915888363" />
-      <entry key="S2" value="1.0548406340227308" />
-      <entry key="S5" value="1.546381571232743" />
-      <entry key="S10" value="1.9107369099692488" />
-      <entry key="S30" value="3.2532569346035802" />
-      <entry key="S60" value="4.3661738501425456" />
-      <entry key="M2" value="6.932052978694343" />
-      <entry key="M5" value="24.149779024618404" />
-      <entry key="M10" value="64.456176686692" />
-      <entry key="M15" value="101.12996327602121" />
-      <entry key="M30" value="170.70155816860824" />
-      <entry key="H1" value="227.99843325801808" />
-      <entry key="H2" value="265.2781476192993" />
-      <entry key="H4" value="286.6146933344245" />
-      <entry key="D1" value="305.9513673037361" />
-      <entry key="W1" value="309.4178031260646" />
+      <entry key="MS100" value="1.000488286303745" />
+      <entry key="MS500" value="1.2401518953645343" />
+      <entry key="S2" value="2.4983309245882213" />
+      <entry key="S5" value="5.243440262861977" />
+      <entry key="S10" value="9.062440063016068" />
+      <entry key="S30" value="17.558071525338775" />
+      <entry key="S60" value="26.635144944101825" />
+      <entry key="M2" value="41.019598553857136" />
+      <entry key="M5" value="69.62357173636003" />
+      <entry key="M10" value="112.23766476776011" />
+      <entry key="M15" value="150.52190959054457" />
+      <entry key="M30" value="226.49764214093673" />
+      <entry key="H1" value="292.13329479880747" />
+      <entry key="H2" value="336.10196373983354" />
+      <entry key="H4" value="361.66770115217906" />
+      <entry key="D1" value="385.07236622114715" />
+      <entry key="W1" value="389.29083173281504" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000000000000002" />
-      <entry key="MS500" value="1.0006688637597487" />
-      <entry key="S2" value="1.1608179285741664" />
-      <entry key="S5" value="1.4822210453163485" />
-      <entry key="S10" value="1.7219654278795073" />
-      <entry key="S30" value="2.1893651005227146" />
-      <entry key="S60" value="2.492405304205093" />
-      <entry key="M2" value="2.7251747485451108" />
-      <entry key="M5" value="3.161162874834807" />
-      <entry key="M10" value="3.918690512213189" />
-      <entry key="M15" value="4.556539808906813" />
-      <entry key="M30" value="5.725369883681181" />
-      <entry key="H1" value="6.6682406998788935" />
-      <entry key="H2" value="7.275802539706" />
-      <entry key="H4" value="7.621885558064633" />
-      <entry key="D1" value="7.934622517161512" />
-      <entry key="W1" value="7.990600767089461" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="7.657782117816372E-154" />
+      <entry key="S2" value="5.2604845747888434E-39" />
+      <entry key="S5" value="4.880836970137712E-16" />
+      <entry key="S10" value="2.252503437811153E-8" />
+      <entry key="S30" value="0.004189414603381882" />
+      <entry key="S60" value="0.11562545250527805" />
+      <entry key="M2" value="0.66223175959471" />
+      <entry key="M5" value="2.0689193193865507" />
+      <entry key="M10" value="3.456705696932896" />
+      <entry key="M15" value="4.386557768810433" />
+      <entry key="M30" value="5.970565797420808" />
+      <entry key="H1" value="7.223406207489" />
+      <entry key="H2" value="8.031680630658267" />
+      <entry key="H4" value="8.493635841507361" />
+      <entry key="D1" value="8.912314352428721" />
+      <entry key="W1" value="8.987390004962258" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0011613649098786837" />
-      <entry key="MS500" value="0.31290276753852303" />
-      <entry key="S2" value="1.6346021655918888" />
-      <entry key="S5" value="2.689236243598213" />
-      <entry key="S10" value="3.422768120549842" />
-      <entry key="S30" value="5.3348693193872" />
-      <entry key="S60" value="6.790730995716959" />
-      <entry key="M2" value="9.613778458324996" />
-      <entry key="M5" value="27.278518209442623" />
-      <entry key="M10" value="68.3465116312494" />
-      <entry key="M15" value="105.66163678938803" />
-      <entry key="M30" value="176.40950205209865" />
-      <entry key="H1" value="234.6560663559523" />
-      <entry key="H2" value="272.54805323234126" />
-      <entry key="H4" value="294.23346379993836" />
-      <entry key="D1" value="313.88544574707765" />
-      <entry key="W1" value="317.40832553450633" />
+      <entry key="MS100" value="0.9597134344168567" />
+      <entry key="MS500" value="1.2279702997620892" />
+      <entry key="S2" value="2.490967091132852" />
+      <entry key="S5" value="5.237428468238573" />
+      <entry key="S10" value="9.057406990457524" />
+      <entry key="S30" value="17.55843526062596" />
+      <entry key="S60" value="26.742804856606327" />
+      <entry key="M2" value="41.664972186798444" />
+      <entry key="M5" value="71.66792862266665" />
+      <entry key="M10" value="115.66873536730787" />
+      <entry key="M15" value="154.88459842980885" />
+      <entry key="M30" value="232.4503621859438" />
+      <entry key="H1" value="299.345447788774" />
+      <entry key="H2" value="344.12727133453893" />
+      <entry key="H4" value="370.15793814849116" />
+      <entry key="D1" value="393.9840821262304" />
+      <entry key="W1" value="398.27813542765267" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -89,39 +87,44 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3HiurPTm2fbNBRvZCX8VOpggTd8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.01_helloworld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_runningcode.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_variablenames.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_escapesequences.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tiago/Desktop/Curso_Python_Mosh&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01_helloworld.executor": "Run",
+    "Python.03_runningcode.executor": "Run",
+    "Python.04_variables.executor": "Run",
+    "Python.05_variablenames.executor": "Run",
+    "Python.06_strings.executor": "Run",
+    "Python.07_escapesequences.executor": "Run",
+    "Python.08_formattedstrings.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/tiago/Desktop/Curso_Python_Mosh",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="07_escapesequences" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Curso_Python_Mosh" />
@@ -167,6 +170,7 @@
       <workItem from="1786367983225" duration="150000" />
       <workItem from="1786403024573" duration="2056000" />
       <workItem from="1786418676533" duration="4371000" />
+      <workItem from="1786428659789" duration="331000" />
     </task>
     <servers />
   </component>
@@ -174,10 +178,11 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$08_formattedstrings.coverage" NAME="08_formattedstrings Coverage Results" MODIFIED="1786429033758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$05_variablenames.coverage" NAME="05_variablenames Coverage Results" MODIFIED="1786421238311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$03_runningcode.coverage" NAME="03_runningcode Coverage Results" MODIFIED="1786367485628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$04_variables.coverage" NAME="04_variables Coverage Results" MODIFIED="1786420691752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$07_escapesequences.coverage" NAME="07_escapesequences Coverage Results" MODIFIED="1786428179856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$07_escapesequences.coverage" NAME="07_escapesequences Coverage Results" MODIFIED="1786428764515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$06_strings.coverage" NAME="06_strings Coverage Results" MODIFIED="1786422314746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
