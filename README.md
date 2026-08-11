@@ -14,6 +14,7 @@ Curso_Python_Mosh/
 ├── 02_formatingcode.py  # Code formatting & PEP 8 standards
 ├── 03_runningcode.py   # Executing Python scripts & environment setup
 └── README.md           # Documentation
+```
 
 🛠️ Tech Stack & Environment
 Language: Python 3
