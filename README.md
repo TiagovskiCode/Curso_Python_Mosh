@@ -6,14 +6,15 @@ It serves as a clean reference for fundamental programming concepts, clean code 
 
 ---
 
-### 📂 Repository Structure
-
 ```text
 Curso_Python_Mosh/
-├── 01_helloworld.py    # Basic syntax & output
-├── 02_formatingcode.py  # Code formatting & PEP 8 standards
-├── 03_runningcode.py   # Executing Python scripts & environment setup
-└── README.md           # Documentation
+├── Classes/
+│   ├── 01_helloworld.py
+│   └── ...
+└── Exercices/
+    ├── 01_strings.py
+    ├── ...
+    └── 09_even_numbers.py
 ```
 
 ### 🛠️ Tech Stack & Environment
@@ -32,9 +33,9 @@ Version Control: Git & GitHub
 
 - [ ] Primitive Data Types & Variables
 
-- [ ] Control Flow & Conditionals (if, else)
+- [x] Control Flow & Conditionals (if, else)
 
-- [ ] Loops (for, while)
+- [x] Loops (for, while)
 
 - [ ] Functions & Modular Code
 
