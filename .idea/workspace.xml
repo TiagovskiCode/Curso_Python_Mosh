@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80611442-0c78-40c1-8f4a-738078a63652" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classes/17_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/18_nested_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/19_iterables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/20_while_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercices/challenge_09_even_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercices/10_countdown.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/16_chaning_comparison_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/16_chaning_comparison_operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +106,7 @@
     "Python.07_escapesequences.executor": "Run",
     "Python.08_formattedstrings.executor": "Run",
     "Python.09-stringmethods.executor": "Run",
+    "Python.10_countdown.executor": "Run",
     "Python.10_numbers.executor": "Run",
     "Python.11_typeconversion.executor": "Run",
     "Python.13_conditionalstatements.executor": "Run",
@@ -147,7 +143,7 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
+    "settings.editor.selected.configurable": "configurable.group.python.group.settings",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -169,6 +165,32 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_escapesequences.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10_countdown" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\Desktop\Curso_Python_Mosh\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercices" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercices/10_countdown.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,6 +221,8 @@
       <workItem from="1786428659789" duration="16091000" />
       <workItem from="1786497496357" duration="96000" />
       <workItem from="1786522820853" duration="8771000" />
+      <workItem from="1786541541521" duration="466000" />
+      <workItem from="1786542016951" duration="254000" />
     </task>
     <servers />
   </component>
@@ -207,15 +231,16 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$10_numbers.coverage" NAME="10_numbers Coverage Results" MODIFIED="1786430976127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$17_loops.coverage" NAME="17_loops Coverage Results" MODIFIED="1786537886795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$19_iterables.coverage" NAME="19_iterables Coverage Results" MODIFIED="1786538719291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$17_loops.coverage" NAME="17_loops Coverage Results" MODIFIED="1786537886795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_09_even_numbers.coverage" NAME="challenge_09_even_numbers Coverage Results" MODIFIED="1786539919937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$13_conditionalstatements.coverage" NAME="13_conditionalstatements Coverage Results" MODIFIED="1786523615001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$05_variablenames.coverage" NAME="05_variablenames Coverage Results" MODIFIED="1786421238311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_05_frase.coverage" NAME="challenge_05_frase Coverage Results" MODIFIED="1786441789198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$10_countdown.coverage" NAME="10_countdown Coverage Results" MODIFIED="1786542125944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_01_strings.coverage" NAME="challenge_01_strings Coverage Results" MODIFIED="1786438922714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$04_variables.coverage" NAME="04_variables Coverage Results" MODIFIED="1786420691752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$07_escapesequences.coverage" NAME="07_escapesequences Coverage Results" MODIFIED="1786523436813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$07_escapesequences.coverage" NAME="07_escapesequences Coverage Results" MODIFIED="1786542099909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_03_conta.coverage" NAME="challenge_03_conta Coverage Results" MODIFIED="1786440030484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$16_chaning_comparison_operators.coverage" NAME="16_chaning_comparison_operators Coverage Results" MODIFIED="1786536884803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$09_stringmethods.coverage" NAME="09-stringmethods Coverage Results" MODIFIED="1786429404632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
