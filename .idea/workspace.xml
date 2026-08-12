@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80611442-0c78-40c1-8f4a-738078a63652" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classes/12_comparisonoperators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/13_conditionalstatements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/14_ternaryoperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/15_logicaloperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/16_chaning_comparison_operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/15_logicaloperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/15_logicaloperators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,61 +27,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.9012504626108329" />
-      <entry key="MS500" value="1.98067354951217" />
-      <entry key="S2" value="2.2666520360579785" />
-      <entry key="S5" value="3.3108640435504095" />
-      <entry key="S10" value="5.104639198982454" />
-      <entry key="S30" value="10.692814567019521" />
-      <entry key="S60" value="15.526135470759796" />
-      <entry key="M2" value="19.701484196370302" />
-      <entry key="M5" value="23.242865048743248" />
-      <entry key="M10" value="26.579794514746876" />
-      <entry key="M15" value="32.31298065246715" />
-      <entry key="M30" value="58.98096991218358" />
-      <entry key="H1" value="127.01753177915023" />
-      <entry key="H2" value="266.70455808525196" />
-      <entry key="H4" value="461.8523022198485" />
-      <entry key="D1" value="816.3430343044528" />
-      <entry key="W1" value="909.2595694280411" />
+      <entry key="MS100" value="1.0014801920711374" />
+      <entry key="MS500" value="1.2862149720833462" />
+      <entry key="S2" value="2.438675031630946" />
+      <entry key="S5" value="4.825404754870199" />
+      <entry key="S10" value="8.180960099196746" />
+      <entry key="S30" value="15.214469911282787" />
+      <entry key="S60" value="20.642336524187517" />
+      <entry key="M2" value="25.634772477941638" />
+      <entry key="M5" value="30.087824313452845" />
+      <entry key="M10" value="31.932183302592538" />
+      <entry key="M15" value="32.64004981174409" />
+      <entry key="M30" value="35.517173440140745" />
+      <entry key="H1" value="58.35898721799989" />
+      <entry key="H2" value="151.4789199695625" />
+      <entry key="H4" value="340.67244553759156" />
+      <entry key="D1" value="796.5133952237759" />
+      <entry key="W1" value="934.44231624452" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="4.063753801797015E-151" />
-      <entry key="S10" value="6.559093631494201E-76" />
-      <entry key="S30" value="1.411991121243705E-25" />
-      <entry key="S60" value="7.637477617958641E-13" />
-      <entry key="M2" value="2.3667799716526967E-6" />
-      <entry key="M5" value="0.03051177428368375" />
-      <entry key="M10" value="0.9443286638322553" />
-      <entry key="M15" value="3.1958111031756955" />
-      <entry key="M30" value="12.144081608276952" />
-      <entry key="H1" value="27.890967333560095" />
-      <entry key="H2" value="47.8068567374677" />
-      <entry key="H4" value="66.40835787987585" />
-      <entry key="D1" value="91.37848222664873" />
-      <entry key="W1" value="97.01207706867386" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="7.148202528145002E-111" />
+      <entry key="S60" value="1.7184321607571855E-55" />
+      <entry key="M2" value="1.1226622155652123E-27" />
+      <entry key="M5" value="9.013717677711223E-11" />
+      <entry key="M10" value="5.1326472359136766E-5" />
+      <entry key="M15" value="0.004585569330458272" />
+      <entry key="M30" value="0.46001369204779285" />
+      <entry key="H1" value="5.428334702428857" />
+      <entry key="H2" value="21.09073478385869" />
+      <entry key="H4" value="44.10862314842399" />
+      <entry key="D1" value="85.35469214648572" />
+      <entry key="W1" value="96.07156576045593" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.4666949113719732" />
-      <entry key="MS500" value="1.8669736259285667" />
-      <entry key="S2" value="2.2302427023412763" />
-      <entry key="S5" value="3.2536456459316048" />
-      <entry key="S10" value="5.01119705092462" />
-      <entry key="S30" value="10.570905393754424" />
-      <entry key="S60" value="15.424724849240112" />
-      <entry key="M2" value="19.633594319624713" />
-      <entry key="M5" value="23.240347166183977" />
-      <entry key="M10" value="27.50353038530458" />
-      <entry key="M15" value="35.49003401537676" />
-      <entry key="M30" value="71.10588622002399" />
-      <entry key="H1" value="154.8896444511041" />
-      <entry key="H2" value="314.495094234129" />
-      <entry key="H4" value="528.2486823149831" />
-      <entry key="D1" value="907.7185298094655" />
-      <entry key="W1" value="1006.2711852478249" />
+      <entry key="MS100" value="0.014879212873137907" />
+      <entry key="MS500" value="0.6362876508887715" />
+      <entry key="S2" value="2.1214931403091493" />
+      <entry key="S5" value="4.63048084200026" />
+      <entry key="S10" value="8.057622637118136" />
+      <entry key="S30" value="15.161208408846885" />
+      <entry key="S60" value="20.608125151959623" />
+      <entry key="M2" value="25.612357329464682" />
+      <entry key="M5" value="30.076449075548148" />
+      <entry key="M10" value="31.925986113614318" />
+      <entry key="M15" value="32.64030396648769" />
+      <entry key="M30" value="35.974234915577156" />
+      <entry key="H1" value="63.782519844624" />
+      <entry key="H2" value="172.56188350806633" />
+      <entry key="H4" value="384.77282617548946" />
+      <entry key="D1" value="881.865249557425" />
+      <entry key="W1" value="1030.513418369242" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -113,6 +111,7 @@
     "Python.11_typeconversion.executor": "Run",
     "Python.13_conditionalstatements.executor": "Run",
     "Python.14_ternaryoperator.executor": "Run",
+    "Python.15_logicaloperators.executor": "Run",
     "Python.challenge_01_strings.executor": "Run",
     "Python.challenge_02_idade.executor": "Run",
     "Python.challenge_03_conta.executor": "Run",
@@ -189,7 +188,7 @@
       <workItem from="1786418676533" duration="4371000" />
       <workItem from="1786428659789" duration="16091000" />
       <workItem from="1786497496357" duration="96000" />
-      <workItem from="1786522820853" duration="2329000" />
+      <workItem from="1786522820853" duration="4776000" />
     </task>
     <servers />
   </component>
@@ -207,6 +206,7 @@
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$06_strings.coverage" NAME="06_strings Coverage Results" MODIFIED="1786422314746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$05_variablenames.coverage" NAME="05_variablenames Coverage Results" MODIFIED="1786421238311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_05_frase.coverage" NAME="challenge_05_frase Coverage Results" MODIFIED="1786441789198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$15_logicaloperators.coverage" NAME="15_logicaloperators Coverage Results" MODIFIED="1786533708765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$14_ternaryoperator.coverage" NAME="14_ternaryoperator Coverage Results" MODIFIED="1786525366588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$03_runningcode.coverage" NAME="03_runningcode Coverage Results" MODIFIED="1786367485628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_01_strings.coverage" NAME="challenge_01_strings Coverage Results" MODIFIED="1786438922714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />

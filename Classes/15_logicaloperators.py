@@ -20,3 +20,4 @@ if not student:
 if (high_income or good_credit) and not student:
     print("Fully eligible")
 
+#Logical operators in python are like a circuit 
