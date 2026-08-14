@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80611442-0c78-40c1-8f4a-738078a63652" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercices/29_budget_tracker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercices/30_security_scanner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercices/31_sensor_monitor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercices/32_serial_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercices/33_login_attempts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercices/28_shopping_receipt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercices/28_shopping_receipt.py" afterDir="false" />
-    </list>
+    <list default="true" id="80611442-0c78-40c1-8f4a-738078a63652" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -253,7 +245,7 @@
       <workItem from="1786604138535" duration="4062000" />
       <workItem from="1786610684378" duration="4628000" />
       <workItem from="1786688891541" duration="1623000" />
-      <workItem from="1786690538292" duration="5049000" />
+      <workItem from="1786690538292" duration="5213000" />
     </task>
     <servers />
   </component>
