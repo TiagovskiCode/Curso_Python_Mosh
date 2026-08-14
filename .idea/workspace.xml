@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80611442-0c78-40c1-8f4a-738078a63652" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercices/17_inventory_scanner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercices/18_score_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercices/19_max_score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercices/20_average_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercices/21_inventory_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercices/22_health_status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercices/23_shipping_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercices/24_discount_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercices/25_stock_checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercices/26_bank_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercices/27_grade_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercices/28_shopping_receipt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,61 +33,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="5.815118837504134E-114" />
-      <entry key="MS500" value="2.44198197419192E-23" />
-      <entry key="S2" value="3.4978010747650517E-6" />
-      <entry key="S5" value="0.013906576151803069" />
-      <entry key="S10" value="0.2825083704963101" />
-      <entry key="S30" value="2.6103887117761166" />
-      <entry key="S60" value="4.931501438230513" />
-      <entry key="M2" value="7.903394511452827" />
-      <entry key="M5" value="13.476653958007239" />
-      <entry key="M10" value="17.513980024175705" />
-      <entry key="M15" value="19.34142291573728" />
-      <entry key="M30" value="22.382002874442573" />
-      <entry key="H1" value="36.71968868701052" />
-      <entry key="H2" value="95.32843296183664" />
-      <entry key="H4" value="252.26997665097633" />
-      <entry key="D1" value="893.7951630863993" />
-      <entry key="W1" value="1159.3042421060404" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0001416761000461" />
+      <entry key="S2" value="1.1749826404369628" />
+      <entry key="S5" value="1.8353081564847635" />
+      <entry key="S10" value="2.878127022142688" />
+      <entry key="S30" value="6.412109121581782" />
+      <entry key="S60" value="11.181571710007685" />
+      <entry key="M2" value="19.56560040820085" />
+      <entry key="M5" value="41.85342602989152" />
+      <entry key="M10" value="72.02849829437206" />
+      <entry key="M15" value="94.2770489983405" />
+      <entry key="M30" value="133.09820581204048" />
+      <entry key="H1" value="171.68308458470105" />
+      <entry key="H2" value="238.84733742716276" />
+      <entry key="H4" value="395.7464040852052" />
+      <entry key="D1" value="1055.9437934944808" />
+      <entry key="W1" value="1337.6609629011198" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000000044" />
-      <entry key="S2" value="1.000282078286669" />
-      <entry key="S5" value="1.051137503385102" />
-      <entry key="S10" value="1.3225242484632196" />
-      <entry key="S30" value="2.293738607279474" />
-      <entry key="S60" value="2.9517830386650132" />
-      <entry key="M2" value="3.589005971168749" />
-      <entry key="M5" value="4.695254749270825" />
-      <entry key="M10" value="5.547779912283333" />
-      <entry key="M15" value="5.947567376551823" />
-      <entry key="M30" value="6.590620734190625" />
-      <entry key="H1" value="9.046547439568148" />
-      <entry key="H2" value="18.253216810755127" />
-      <entry key="H4" value="40.03577737260383" />
-      <entry key="D1" value="110.55474962478424" />
-      <entry key="W1" value="136.08142145900365" />
+      <entry key="MS100" value="1.0625150828478142E-35" />
+      <entry key="MS500" value="1.0126931089969295E-7" />
+      <entry key="S2" value="0.020484574307716618" />
+      <entry key="S5" value="0.29303156275259934" />
+      <entry key="S10" value="0.7667084643114135" />
+      <entry key="S30" value="1.9001847730671892" />
+      <entry key="S60" value="2.9009455306920207" />
+      <entry key="M2" value="4.188222603088261" />
+      <entry key="M5" value="7.986933150114979" />
+      <entry key="M10" value="14.358260168375153" />
+      <entry key="M15" value="19.284705024950185" />
+      <entry key="M30" value="27.901409289474575" />
+      <entry key="H1" value="35.99226022406162" />
+      <entry key="H2" value="47.770028996876285" />
+      <entry key="H4" value="70.57109085448714" />
+      <entry key="D1" value="144.98524338936943" />
+      <entry key="W1" value="172.6359919989376" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0026313155798158012" />
-      <entry key="MS500" value="0.30481377351907646" />
-      <entry key="S2" value="0.7432130092305269" />
-      <entry key="S5" value="0.9429776063876342" />
-      <entry key="S10" value="1.5039198235065039" />
-      <entry key="S30" value="4.796706342078518" />
-      <entry key="S60" value="7.798132186687005" />
-      <entry key="M2" value="11.436038190149485" />
-      <entry key="M5" value="18.14308168386507" />
-      <entry key="M10" value="23.045487620644614" />
-      <entry key="M15" value="25.277605560333715" />
-      <entry key="M30" value="28.966382800115934" />
-      <entry key="H1" value="45.76133865637368" />
-      <entry key="H2" value="113.57565070143546" />
-      <entry key="H4" value="292.2985477601742" />
-      <entry key="D1" value="1004.3463244352353" />
-      <entry key="W1" value="1295.3850221125065" />
+      <entry key="MS100" value="1.0850130385334117E-4" />
+      <entry key="MS500" value="0.16123711764052828" />
+      <entry key="S2" value="0.8243000429146161" />
+      <entry key="S5" value="1.9185911865151988" />
+      <entry key="S10" value="3.4687275847960706" />
+      <entry key="S30" value="8.162591277302358" />
+      <entry key="S60" value="13.961032313830517" />
+      <entry key="M2" value="23.663183362403363" />
+      <entry key="M5" value="49.77455232444529" />
+      <entry key="M10" value="86.33034009138754" />
+      <entry key="M15" value="113.5120549224337" />
+      <entry key="M30" value="160.9642229969581" />
+      <entry key="H1" value="207.65251253160943" />
+      <entry key="H2" value="286.6017442412317" />
+      <entry key="H4" value="466.30537646970856" />
+      <entry key="D1" value="1200.9245213451825" />
+      <entry key="W1" value="1510.2961713224277" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -128,7 +132,15 @@
     "Python.18_score_filter.executor": "Run",
     "Python.19_iterables.executor": "Run",
     "Python.19_max_score.executor": "Run",
+    "Python.20_average_score.executor": "Run",
     "Python.20_while_loops.executor": "Run",
+    "Python.21_inventory_search.executor": "Run",
+    "Python.22_health_status.executor": "Run",
+    "Python.23_shipping_calculator.executor": "Run",
+    "Python.24_discount_calculator.executor": "Run",
+    "Python.25_stock_checker.executor": "Run",
+    "Python.26_bank_statement.executor": "Run",
+    "Python.27_grade_classifier.executor": "Run",
     "Python.challenge_01_strings.executor": "Run",
     "Python.challenge_02_idade.executor": "Run",
     "Python.challenge_03_conta.executor": "Run",
@@ -155,7 +167,7 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.python.group.settings",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -235,7 +247,9 @@
       <workItem from="1786541541521" duration="466000" />
       <workItem from="1786542016951" duration="254000" />
       <workItem from="1786604138535" duration="4062000" />
-      <workItem from="1786610684378" duration="4186000" />
+      <workItem from="1786610684378" duration="4628000" />
+      <workItem from="1786688891541" duration="1623000" />
+      <workItem from="1786690538292" duration="1552000" />
     </task>
     <servers />
   </component>
@@ -244,11 +258,14 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$10_numbers.coverage" NAME="10_numbers Coverage Results" MODIFIED="1786430976127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$19_iterables.coverage" NAME="19_iterables Coverage Results" MODIFIED="1786538719291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$22_health_status.coverage" NAME="22_health_status Coverage Results" MODIFIED="1786689875028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$17_loops.coverage" NAME="17_loops Coverage Results" MODIFIED="1786537886795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$19_iterables.coverage" NAME="19_iterables Coverage Results" MODIFIED="1786538719291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_09_even_numbers.coverage" NAME="challenge_09_even_numbers Coverage Results" MODIFIED="1786539919937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$13_conditionalstatements.coverage" NAME="13_conditionalstatements Coverage Results" MODIFIED="1786523615001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$23_shipping_calculator.coverage" NAME="23_shipping_calculator Coverage Results" MODIFIED="1786690064575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$14_odd_numbers.coverage" NAME="14_odd_numbers Coverage Results" MODIFIED="1786607004406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$21_inventory_search.coverage" NAME="21_inventory_search Coverage Results" MODIFIED="1786689309842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$05_variablenames.coverage" NAME="05_variablenames Coverage Results" MODIFIED="1786421238311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_05_frase.coverage" NAME="challenge_05_frase Coverage Results" MODIFIED="1786441789198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$17_inventory_scanner.coverage" NAME="17_inventory_scanner Coverage Results" MODIFIED="1786611997424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
@@ -266,9 +283,13 @@
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$08_formattedstrings.coverage" NAME="08_formattedstrings Coverage Results" MODIFIED="1786429033758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_02_idade.coverage" NAME="challenge_02_idade Coverage Results" MODIFIED="1786439253733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$11_sum_multiples.coverage" NAME="11_sum_multiples Coverage Results" MODIFIED="1786604479009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$27_grade_classifier.coverage" NAME="27_grade_classifier Coverage Results" MODIFIED="1786691708013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$26_bank_statement.coverage" NAME="26_bank_statement Coverage Results" MODIFIED="1786691623182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_04_temp.coverage" NAME="challenge_04_temp Coverage Results" MODIFIED="1786441067257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_06_desconto.coverage" NAME="challenge_06_desconto Coverage Results" MODIFIED="1786443924871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_07_texto.coverage" NAME="challenge_07_texto Coverage Results" MODIFIED="1786446758985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$20_average_score.coverage" NAME="20_average_score Coverage Results" MODIFIED="1786624356214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$25_stock_checker.coverage" NAME="25_stock_checker Coverage Results" MODIFIED="1786691105819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$06_strings.coverage" NAME="06_strings Coverage Results" MODIFIED="1786422314746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$20_while_loops.coverage" NAME="20_while_loops Coverage Results" MODIFIED="1786539479891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$18_nested_loops.coverage" NAME="18_nested_loops Coverage Results" MODIFIED="1786538496632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
@@ -279,5 +300,6 @@
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$18_score_filter.coverage" NAME="18_score_filter Coverage Results" MODIFIED="1786623689161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$challenge_08_username.coverage" NAME="challenge_08_username Coverage Results" MODIFIED="1786448211233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
     <SUITE FILE_PATH="coverage/Curso_Python_Mosh$11_typeconversion.coverage" NAME="11_typeconversion Coverage Results" MODIFIED="1786430442298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Curso_Python_Mosh$24_discount_calculator.coverage" NAME="24_discount_calculator Coverage Results" MODIFIED="1786690302853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercices" />
   </component>
 </project>
