@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="80611442-0c78-40c1-8f4a-738078a63652" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Exercices/34_savings_goal.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercices/35_checkout_register.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="80611442-0c78-40c1-8f4a-738078a63652" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +100,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -171,9 +176,61 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editor.preferences.completion.inline",
     "to.speed.mode.migration.done": "true"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.01_helloworld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_runningcode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_variablenames.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_escapesequences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_formattedstrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09-stringmethods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_countdown.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_typeconversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13_conditionalstatements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14_ternaryoperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15_logicaloperators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16_chaning_comparison_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18_nested_loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19_iterables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20_while_loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_01_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_02_idade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_03_conta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_04_temp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_05_frase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_06_desconto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_07_texto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_08_username.executor&quot;: &quot;Run&quot;,
+    &quot;Python.challenge_09_even_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tiago/Desktop/Curso_Python_Mosh&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.python.group.settings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+>>>>>>> Stashed changes
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.07_escapesequences">
     <configuration name="07_escapesequences" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Curso_Python_Mosh" />
       <option name="ENV_FILES" value="" />
@@ -247,12 +304,16 @@
       <workItem from="1786497496357" duration="96000" />
       <workItem from="1786522820853" duration="8771000" />
       <workItem from="1786541541521" duration="466000" />
+<<<<<<< Updated upstream
       <workItem from="1786542016951" duration="254000" />
       <workItem from="1786604138535" duration="4062000" />
       <workItem from="1786610684378" duration="4628000" />
       <workItem from="1786688891541" duration="1623000" />
       <workItem from="1786690538292" duration="5213000" />
       <workItem from="1786713199989" duration="1478000" />
+=======
+      <workItem from="1786542016951" duration="300000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
