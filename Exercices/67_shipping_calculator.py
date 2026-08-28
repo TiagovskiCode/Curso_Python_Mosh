@@ -9,14 +9,17 @@ orders = [
 ]
 
 def process_shipping(order_list):
-    base_shipping = 4
     total_shipping = 0
-    express_costumers = []
+    express_customers = []
 
-    for customer in orders:
-        if customer["express"] == True:
-            express_costumers.append(customer["name"])
-            total_shipping += 15 + customer["weight"]*4
+    for customer in order_list:
+        if customer["weight"] < 10:
+            total_shipping += customer["weight"] * 4
 
-        else:
-            
+        if customer["express"]:
+            total_shipping += 15
+            express_customers.append(customer["customer"])
+
+    return {"total_shipping": total_shipping, "express_customers": express_customers}
+
+print(process_shipping(orders))
